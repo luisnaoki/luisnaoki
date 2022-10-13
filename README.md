@@ -4,12 +4,13 @@
 <a href="https://github.com/luisnaoki"><img align= "center" height= "250" src ="imagem1.gif" alt ="bem vindo meu nobre"> </a>
 
 <strong> <h2> Eu sou o luis Naoki 👋</strong></h2>
+![Luis Naoki GitHub stats](https://github-readme-stats.vercel.app/api?username=luisnaoki&theme=tokyonight&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luisnaoki&theme=tokyonight)
+
 
 Atualmente sou estudante de <strong>Desenvolvimento web</strong> pela <a href =https://www.betrybe.com/> Trybe 👨‍🎓</a>.
 
 
-![Luis Naoki GitHub stats](https://github-readme-stats.vercel.app/api?username=luisnaoki&theme=tokyonight&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luisnaoki&theme=tokyonight)
 
 
 <img align= "right" height= "200" src ="Sho.gif" alt ="bem vindo meu nobre"> 
