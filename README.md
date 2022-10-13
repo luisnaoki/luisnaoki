@@ -1,5 +1,4 @@
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white/)](https://www.linkedin.com/in/luisnaoki/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/luisnaoki/)
+
 
 <a href="https://github.com/luisnaoki"><img align= "center" height= "250" src ="imagem1.gif" alt ="bem vindo meu nobre"> </a>
 
@@ -23,3 +22,5 @@ Um pouco sobre mim:
 <li>📮 Meu e-mail para contato: Luis_naoki@hotmail.com</li>
 </ul></strong>
 
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white/)](https://www.linkedin.com/in/luisnaoki/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/luisnaoki/)
