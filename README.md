@@ -1,16 +1,17 @@
-### Hi there 👋
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white/)](https://www.linkedin.com/in/luisnaoki/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white/)](https://www.instagram.com/luisnaoki/)
+<i><h2>  Hello World !!!</i> </h3> 
+<strong> Eu sou o luis Naoki 👋</strong>
 
-<!--
-**luisnaoki/luisnaoki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Atualmente sou estudante de <strong>Desenvolvimento web</strong> pela <a href =https://www.betrybe.com/> Trybe 👨‍🎓</a>.
 
-Here are some ideas to get you started:
+![Luis Naoki GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Um pouco sobre mim:
+<ul>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+</ul>
