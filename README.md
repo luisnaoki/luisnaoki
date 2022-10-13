@@ -12,7 +12,7 @@ Atualmente sou estudante de <strong>Desenvolvimento web</strong> pela <a href =h
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luisnaoki&theme=tokyonight)
 
 
-<img align= "right" height= "120" src ="Sho.gif" alt ="bem vindo meu nobre"> 
+<img align= "right" height= "200" src ="Sho.gif" alt ="bem vindo meu nobre"> 
 
 Um pouco sobre mim:
 <ul><strong>
