@@ -14,7 +14,7 @@ Atualmente sou estudante de <strong>Desenvolvimento web</strong> pela <a href =h
 
 <img align= "right" height= "200" src ="Sho.gif" alt ="bem vindo meu nobre"> 
 
-Um pouco sobre mim:
+Aquela famosa descrição:
 <ul><strong>
 <li>🕹️ Hobbies : Jogar, ler, filmes e séries;</li> 
 <li>🏋️ Rato de academia;</li>
